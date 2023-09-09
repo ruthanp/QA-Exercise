@@ -1,0 +1,3 @@
+Difference between Regression and Re-test
+Regression dilakukan saat software mengalami perubahan seperti naik version dan biasanya regression dilakukan dengan melakukan test pada keseluruhan website.
+Sedangkan re-test biasanya dilakukan dengan melakukan test pada fitur tertentu yang sebelumnya ditemukan bug. Re-test ini bertujuan untuk memastikan bahwa fitur sudah berfungsi dengan baik dan tidak memiliki bug lagi.
