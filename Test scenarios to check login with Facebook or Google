@@ -1,0 +1,5 @@
+Test scenarios to check login with Facebook or Google
+Given User already launched the app/website
+When User click "Login with Facebook" button below login form
+Then System will navigated to Facebook authorized
+And System will directed to app/website homepage
