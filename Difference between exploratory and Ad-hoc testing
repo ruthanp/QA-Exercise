@@ -1,2 +1,4 @@
 Difference between exploratory and Ad-hoc testing
-Exploratory testing merupakan testing yang dilakukan dengan 
+Exploratory testing merupakan testing yang dilakukan dengan tujuan meningkatkan software dengan segala cara yang memungkinkan.
+Biasanya dilakukan berdasarkan pengalaman, pembelajaran, dan kompetensi pribadi.
+Sedangkan Ad-hoc testing merupakan testing yang dilakukan tanpa memerlukan dokumentasi atau prosedur khusus karena bertujuan untuk menemukan bug secara acak.
