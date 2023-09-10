@@ -1,0 +1,17 @@
+Test Scenarios to check only the integration part between Product details screen and cart screen in any e-comm application (Shopee)
+Check product details
+Given User already at app homepage
+When User tap the search field
+And User type the keyword to search a product that want to buy
+And User click product column
+Then System will shown product details page
+When User click "Add to Cart" button
+And User click the add-ons
+And User click "Add to Cart" button at the buttom of pop up
+Then The product will successfully added to cart
+
+Check cart screen
+Given User already add some product to cart
+When User click "Cart" icon
+Then System will navigated to cart page
+And System will show list of product that have been added
