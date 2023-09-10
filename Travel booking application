@@ -1,0 +1,16 @@
+Travel booking application (Traveloka app as reference)
+Given User already login to the app/website
+When User click "Flight" menu
+And User choose the departure place at "From" field
+And User choose the arrival place at "To" field
+And User choose the time of flight at "Departure Date" field
+And User click "Round-trip?" toggle to active
+And User click "Search" button
+Then System will show list flight as requested
+When User choose the flight to departure
+And User choose the flight to return
+Then System will navigated to hotel list recommendation page that has same duration with flight
+When User choose the hotel
+And User choose payment method
+And User successfully create transaction
+Then System will send a ticket and detail transaction by email to registered email
