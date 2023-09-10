@@ -1,0 +1,3 @@
+Difference between smoke and sanity testing
+Smoke testing dilakukan untuk menguji kestabilan software untuk testing lebih lanjut.
+Sedangkan sanity testing dilakukan untuk memastikan fitur tertentu sudah sesuai dengan expected setelah dilakukan perubahan atau bug fixed.
