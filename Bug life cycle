@@ -1,0 +1,6 @@
+Bug life cycle
+1. New -> bug yang pertama kali ditemukan dan didokumentasikan
+2. Assigned -> bug yang ditemukan disetujui dan di-assign ke developer
+3. Open -> developer menganalisa bug dan melakukan fixing.
+4. Fixed -> bug sudah di-fixed oleh developer dengan melakukan perubahan seperti code atau hal lainnya untuk mengatasi bug
+5. Retest -> tester melakukan testing ulang terhadap fitur yang sudah dilakukan bug fixed.
