@@ -1,0 +1,6 @@
+Common / Generic API error codes and meaning
+1. 404: Not Found -> URL yang digunakan tidak tersedia pada server.
+2. 401: Unauthorized -> user belum melakukan autentikasi terhadap API.
+3. 403: Forbidden -> user sudah melakukan autentikasi namun role tersebut tidak memiliki akses.
+4. 400: Bad Request -> sintaks yang diberikan tidak tepat.
+5. 429: Too Many Request -> user telah mencapai batas request
