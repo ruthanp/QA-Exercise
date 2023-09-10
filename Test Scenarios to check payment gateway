@@ -1,0 +1,14 @@
+Test Scenarios to check payment gateway (Shopee)
+Given User already at app homepage
+When User tap the search field
+And User type the keyword to search a product that want to buy
+And User click product column
+Then System will shown product details page
+When User click "Buy with Voucher" button
+And User choose the add-ons
+And User click "Buy Now" button at the buttom of pop up
+Then System will navigated to "Checkout" details
+When User choose the "Shipping Option"
+And User click "Payment Method" field
+Then System will navigated to "Payment Method" page
+And System will show list of payment gateway that visible
